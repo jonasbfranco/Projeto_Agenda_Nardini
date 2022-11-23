@@ -1,0 +1,31 @@
+{
+  "unidades": [
+    { 
+        "id": 1, 
+        "nome": "Vista Alegre do Alto" 
+    },
+    { 
+        "id": 2, 
+        "nome": "Apore" 
+    }
+],
+  "contatos": [
+    {   
+        "id": 1, 
+        "nome": "Jonas Baptista Franco", 
+        "setor": "TI",
+        "ramal": 244,
+        "email": "jonas.franco@nardini.ind.br",
+        "unidadeId": 1
+    },
+    {   
+        "id": 2, 
+        "nome": "Jonas Baptista", 
+        "setor": "TI",
+        "ramal": 244,
+        "email": "jonas.franco@nardini.ind.br",
+        "unidadeId": 2
+    }
+]
+
+}
